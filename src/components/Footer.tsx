@@ -109,7 +109,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 pt-8 mt-12">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm mb-4 md:mb-0">
-              © {currentYear} Grand Vista Hotel. All rights reserved.
+              © {currentYear} Mutlu Kurt. Licensed under MIT License.
             </div>
             <div className="flex space-x-6 text-gray-400 text-sm">
               <button className="hover:text-amber-400 transition-colors duration-200">Privacy Policy</button>
